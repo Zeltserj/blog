@@ -2,6 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'zeltserj braindump'
 theme = "LoveIt"
+[module]
+  [[module.imports]]
+      path = "https://github.com/dillonzq/LoveIt"
 
 [params]
   # LoveIt theme version

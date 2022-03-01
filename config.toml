@@ -43,6 +43,3 @@ theme = "LoveIt"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
-[submodule "themes/hugo-theme-stack"]
-  path = themes/LoveIt
-     url = "https://github.com/dillonzq/LoveIt" 

@@ -1,7 +1,7 @@
 baseURL = 'http://zeltserj.github.io/blog'
 languageCode = 'en-us'
 title = 'zeltserj braindump'
-theme = "LoveIt"
+theme = "loveit"
 
 [params]
   # LoveIt theme version

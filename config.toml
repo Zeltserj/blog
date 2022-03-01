@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://zeltserj.github.io'
 languageCode = 'en-us'
 title = 'zeltserj braindump'
 theme = "LoveIt"
@@ -42,4 +42,3 @@ theme = "LoveIt"
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
-

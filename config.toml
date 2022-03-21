@@ -1,4 +1,4 @@
-baseURL = 'http://zeltserj.github.io/blog'
+baseURL = 'https://zeltserj.github.io/blog'
 languageCode = 'en-us'
 title = 'zeltserj braindump'
 theme = "loveit"
@@ -6,7 +6,9 @@ theme = "loveit"
 [params]
   # LoveIt theme version
   version = "0.2.X"
-
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -19,22 +21,6 @@ theme = "loveit"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3
 
 # Markup related configuration in Hugo
 [markup]

@@ -1,12 +1,12 @@
 ---
-title: "Humanities vs. Sciences"
+title: "The Road Not Yet Taken"
 date: 2022-03-21T22:08:35+02:00
 draft: false
 tags: ['career choices']
 categories: ['misc blurbs']
 ---
 
-# The internal conflict
+# Humanities vs. Sciences
 I know for certain that I'm going to get a masters degree. I'm not sure what fuels this confidence, whether it be the over achiever that I'm trying to calm down, or some seemingly higher sentiment like "love of learning". Either way, at some point I will go back to Uni. Putting aside the inherent motive, the remaining question is what should I take up as a major.
 
 When I was 15 a friend of mine gave me a book called "Introduction to Philosophy" by Yuval Steinitz, who would eventually become the Finance Minister. I was smitten. The language was dry, archaic and often seemed silly. But the ideas. The history. I read it in a week or so, I remember some name on it, but nothing more besides the emotional experience. Around the same age, I remember bumping in to another quote that struck me - "A Philosophy graduate can finally start having deep thoughts about unemployment".
